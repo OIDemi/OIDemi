@@ -35,7 +35,7 @@ I'm passionate about building and managing scalable, secure, and cost-effective 
 ---
 
 ### 📫 Connect with Me  
-- **Twitter**: [@_devOD](https://x.com/_devOD)  
+- **Twitter**: [@i_amoj](https://x.com/i_amoj)  
 - **Email**: ifeoluwaolujobi@gmail.com
 
 <!---
