@@ -1,30 +1,26 @@
 # 👋 Hi there! I'm Ifeoluwa Demilade  
 
-☁ **Aspiring Cloud Engineer** | 🚀 **Tech Enthusiast** 
+☁ **Software Developer(Frontend)** | 🚀 **Tech Enthusiast** 
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm passionate about building and managing scalable, secure, and cost-effective cloud infrastructures. With a growing skill set in cloud technologies, I'm focused on leveraging tools like **AWS**, **Linux**, and and **Python**.  
+A young developer passionate about building software solutions.
 
 🌱 **Currently Learning**:  
-- **Python** for automation and scripting.  
-- **AWS** as cloud provider /
-- **Linux** as Operating System. 
- 
+- **JavaScript** for interactivity with web pages..  
+- **CC** for styling web pages.
+
 
 ---
 
 ### 🛠️ Tech Stack
 
 - **Cloud Platforms**:  
-  - AWS (EC2, S3, IAM, CloudFormation, etc.)  
-  - Vagrant  
+  - AWS  
 - **Languages**:  
-  - Python  
-- **Cloud Tools**:  
-  - Linux (Ubuntu, shell scripting)  
+  - JavaScript  
 - **Version Control**: Git  
 
 ---
