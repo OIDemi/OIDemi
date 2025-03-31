@@ -10,7 +10,7 @@ A young developer passionate about building software solutions.
 
 🌱 **Currently Learning**:  
 - **JavaScript** for interactivity with web pages..  
-- **CC** for styling web pages.
+- **CSS** for styling web pages.
 
 
 ---
