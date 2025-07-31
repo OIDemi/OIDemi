@@ -15,18 +15,7 @@ A young developer passionate about building software solutions.
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Cloud Platforms**:  
-  - AWS  
-- **Languages**:  
-  - JavaScript  
-- **Version Control**: Git  
-
----
-
-### 📚 Certifications 
-- **AWS Certified Cloud Practitioner - Foundational**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OIDemi)](https://github.com/OIDemi/github-readme-stats)
 
 ---
 
