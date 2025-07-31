@@ -15,7 +15,8 @@ A young developer passionate about building software solutions.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OIDemi)](https://github.com/OIDemi/github-readme-stats&show_icons=true)
+<img alt='My Stats'  src='https://github-readme-stats.vercel.app/api?username=OIDemi&show_icons=true&theme=dark'/>
+<img alt='Top Languages'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=OIDemi&layout=compact'/>
 
 ---
 
