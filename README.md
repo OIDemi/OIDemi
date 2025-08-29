@@ -1,16 +1,15 @@
 # 👋 Hi there! I'm Ifeoluwa Demilade  
 
-☁ **Software Developer(Frontend)** | 🚀 **Tech Enthusiast** 
+☁ **Software Developer(Backend)** 
 
 ---
 
 ### 👨‍💻 About Me
 
-A young developer passionate about building software solutions.
+A young developer passionate about building software solutions. Started with frontend development but had a deeper love for backend and decided to stick with it.
 
 🌱 **Currently Learning**:  
-- **JavaScript** for interactivity with web pages..  
-- **CSS** for styling web pages.
+- **C#** - To build backend systems
 
 
 ---
