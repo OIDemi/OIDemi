@@ -20,7 +20,7 @@ A young developer curious about building backend software solutions. Started wit
 ---
 
 ### 📫 Connect with Me  
-- **Twitter**: [@i_amoj](https://x.com/i_amoj)  
+- **Twitter**: [@_olujobi](https://x.com/_olujobi)  
 - **Email**: ifeoluwaolujobi@gmail.com
 
 <!---
