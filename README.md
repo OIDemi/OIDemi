@@ -6,10 +6,10 @@
 
 ### 👨‍💻 About Me
 
-A young developer passionate about building software solutions. Started with frontend development but had a deeper love for backend and decided to stick with it.
+A young developer curious about building backend software solutions. Started with frontend development but had a deeper love for backend and decided to stick with it.
 
 🌱 **Currently Learning**:  
-- **C#** - To build backend systems
+- **Java** - To build backend systems
 
 
 ---
