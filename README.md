@@ -9,7 +9,7 @@
 A young developer curious about building backend software solutions with Java
 
 🌱 **Currently Learning**:  
-- **NodeJs** - To build backend systems
+- **Java** - To build backend systems
 
 
 ---
