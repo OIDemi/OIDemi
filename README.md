@@ -14,8 +14,8 @@ A young developer curious about building backend software solutions with Java
 
 ---
 
-<img alt='My Stats'  src='https://github-readme-stats.vercel.app/api?username=OIDemi&show_icons=true&theme=dark'/>
-<img alt='Top Languages'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=OIDemi&layout=compact'/>
+<img alt='My Stats'  src='https://github-readme-stats.vercel.app/api?username=olujobii&show_icons=true&theme=dark'/>
+<img alt='Top Languages'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=olujobii&layout=compact'/>
 
 ---
 
