@@ -6,10 +6,10 @@
 
 ### 👨‍💻 About Me
 
-A young developer curious about building backend software solutions with Java
+A young developer curious about building backend software solutions with C#
 
 🌱 **Currently Learning**:  
-- **Java** - To build backend systems
+- **C#** - To build backend systems
 
 
 ---
